@@ -4,7 +4,7 @@ Optical flow or optic flow is the pattern of apparent motion of objects,
 surfaces, and edges in a visual scene caused by the relative motion between an observer and a scene.[1][2] 
 Optical flow can also be defined as the distribution of apparent velocities of movement of brightness pattern in an image.[3]
 
-The concept of optical flow was introduced by by the American psychologist James J. 
+The concept of optical flow was introduced by the American psychologist James J. 
 Gibson in the 1940s to describe the visual stimulus provided to animals moving through the world.[4] 
 Gibson stressed the importance of optic flow for affordance perception, the ability to discern possibilities for action within the environment. Followers of Gibson and his ecological approach to psychology have further demonstrated the role of the optical flow stimulus for the perception of movement by the observer in the world; perception of the shape, distance and movement of objects in the world; and the control of locomotion.[5]
 
