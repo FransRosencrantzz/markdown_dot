@@ -6,7 +6,7 @@ Optical flow can also be defined as the distribution of apparent velocities of m
 
 The concept of optical flow was introduced by the American psychologist James J. 
 Gibson in the 1940s to describe the visual stimulus provided to animals moving through the world.[4] 
-Gibson stressed the importance of optic flow for affordance perception, the ability to discern possibilities for action within the environment. Followers of Gibson and his ecological approach to psychology have further demonstrated the role of the optical flow stimulus for the perception of movement by the observer in the world; perception of the shape, distance and movement of objects in the world; and the control of locomotion.[5]
+Gibson stressed the importance of optic flow flow for affordance perception, the ability to discern possibilities for action within the environment. Followers of Gibson and his ecological approach to psychology have further demonstrated the role of the optical flow stimulus for the perception of movement by the observer in the world; perception of the shape, distance and movement of objects in the world; and the control of locomotion.[5]
 
 The term optical flow is also used by roboticists, encompassing related techniques from image processing and control of navigation including motion detection, 
 object seggmentation, 
